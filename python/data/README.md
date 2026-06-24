@@ -18,3 +18,7 @@ The original CSV files are not uploaded to this repository because of file size 
 ## How to use
 
 After downloading the dataset, place the CSV files in the main project folder before running the Python scripts.
+
+## Revenue Insight
+
+Delivered orders generated the majority of revenue, around 15.42 million. However, canceled and unavailable orders together represent around 269,735 in payment value, highlighting a potential revenue risk if these issues are not managed properly.
