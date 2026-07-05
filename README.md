@@ -100,3 +100,7 @@ olist-ecommerce-conversion-analysis/
 ## Delivery Performance Insight
 
 Around 89.15% of orders were delivered on time or earlier than the estimated delivery date. However, 7.87% of orders were delivered late and 2.98% were not delivered. This shows that although most deliveries were successful, late and undelivered orders may negatively affect customer satisfaction and future purchase behaviour.
+
+## Delivery Delay vs Review Score Insight
+
+Delivery performance has a strong relationship with customer satisfaction. Orders delivered on time or early had an average review score of 4.29, while late deliveries had a much lower average score of 2.57. Orders that were not delivered had the lowest average score of 1.75. This suggests that improving delivery reliability can directly improve customer experience and review scores.
