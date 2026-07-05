@@ -96,3 +96,7 @@ olist-ecommerce-conversion-analysis/
 * Connect delivery performance with review scores
 * Build Power BI dashboard
 * Add dashboard screenshots and final business recommendations
+
+## Delivery Performance Insight
+
+Around 89.15% of orders were delivered on time or earlier than the estimated delivery date. However, 7.87% of orders were delivered late and 2.98% were not delivered. This shows that although most deliveries were successful, late and undelivered orders may negatively affect customer satisfaction and future purchase behaviour.
