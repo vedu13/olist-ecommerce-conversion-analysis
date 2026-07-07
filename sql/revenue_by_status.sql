@@ -1,3 +1,4 @@
+-- Revenue analysis by order status
 WITH payment_per_order AS (
     SELECT 
         order_id,
