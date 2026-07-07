@@ -109,3 +109,9 @@ Delivery performance has a strong relationship with customer satisfaction. Order
 ## Product Category Revenue Insight
 
 The highest revenue category was health and beauty, generating around 1.23 million from delivered orders. Watches and gifts followed closely with around 1.17 million, while bed, table and bath generated around 1.02 million. These categories are key revenue drivers and should be prioritised for inventory planning, promotions, and seller performance monitoring.
+
+
+
+## Customer State Revenue Insight
+
+São Paulo (SP) is the strongest customer market, generating around 5.77 million in revenue from delivered orders. Rio de Janeiro (RJ) and Minas Gerais (MG) are the next strongest regions, generating around 2.06 million and 1.82 million respectively. This shows that revenue is highly concentrated in a few key states, especially São Paulo, which should be prioritised for marketing, logistics, and customer retention strategies.
