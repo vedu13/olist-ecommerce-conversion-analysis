@@ -104,3 +104,8 @@ Around 89.15% of orders were delivered on time or earlier than the estimated del
 ## Delivery Delay vs Review Score Insight
 
 Delivery performance has a strong relationship with customer satisfaction. Orders delivered on time or early had an average review score of 4.29, while late deliveries had a much lower average score of 2.57. Orders that were not delivered had the lowest average score of 1.75. This suggests that improving delivery reliability can directly improve customer experience and review scores.
+
+
+## Product Category Revenue Insight
+
+The highest revenue category was health and beauty, generating around 1.23 million from delivered orders. Watches and gifts followed closely with around 1.17 million, while bed, table and bath generated around 1.02 million. These categories are key revenue drivers and should be prioritised for inventory planning, promotions, and seller performance monitoring.
