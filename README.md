@@ -117,3 +117,13 @@ The highest revenue category was health and beauty, generating around 1.23 milli
 São Paulo (SP) is the strongest customer market, generating around 5.77 million in revenue from delivered orders. Rio de Janeiro (RJ) and Minas Gerais (MG) are the next strongest regions, generating around 2.06 million and 1.82 million respectively. This shows that revenue is highly concentrated in a few key states, especially São Paulo, which should be prioritised for marketing, logistics, and customer retention strategies.
 
 
+## Visualizations
+
+### Order Status Funnel
+![Order Status Funnel](visuals/order_status_funnel.png)
+
+### Revenue by Order Status
+![Revenue by Order Status](visuals/revenue_by_status.png)
+
+### Delivery Status vs Average Review Score
+![Delivery Review Score](visuals/delivery_review_score.png)
