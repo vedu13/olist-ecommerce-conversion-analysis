@@ -125,6 +125,8 @@ São Paulo (SP) is the strongest customer market, generating around 5.77 million
 ### Revenue by Order Status
 ![Revenue by Order Status](visuals/revenue_by_status.png)
 
+### Delivery Status vs Average Review Score
+![Delivery Review Score](visuals/delivery_review_score.png)
 
 ## Project Summary
 
@@ -132,8 +134,7 @@ This project is an end-to-end e-commerce analytics case study using the Olist Br
 
 The analysis found that 97.02% of orders were successfully delivered, but late and undelivered orders had much lower review scores. Revenue was also concentrated in a few product categories and customer states, showing opportunities to improve logistics, marketing focus, and customer experience.
 
-### Delivery Status vs Average Review Score
-![Delivery Review Score](visuals/delivery_review_score.png)
+
 ## Business Recommendations
 
 1. Improve delivery reliability because late deliveries are linked with lower customer review scores.
