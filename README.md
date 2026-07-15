@@ -134,3 +134,10 @@ The analysis found that 97.02% of orders were successfully delivered, but late a
 
 ### Delivery Status vs Average Review Score
 ![Delivery Review Score](visuals/delivery_review_score.png)
+## Business Recommendations
+
+1. Improve delivery reliability because late deliveries are linked with lower customer review scores.
+2. Prioritise logistics support in high-revenue states such as São Paulo, Rio de Janeiro, and Minas Gerais.
+3. Focus marketing and inventory planning on top-performing categories such as health & beauty, watches & gifts, and bed/bath/table.
+4. Investigate cancelled and unavailable orders because they represent potential revenue loss.
+5. Build a regular performance dashboard to monitor order status, delivery delays, revenue, and customer satisfaction.
